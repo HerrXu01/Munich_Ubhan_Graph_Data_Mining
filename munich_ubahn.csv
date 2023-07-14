@@ -1,0 +1,119 @@
+Last stop,Next stop,Line,Duration(min)
+Olympia-Einkaufszentrum,Georg-Brauchle-Ring,U1,2
+Georg-Brauchle-Ring,Westfriedhof,U1,1
+Westfriedhof,Gern,U1,1
+Gern,Rotkreuzplatz,U1,2
+Rotkreuzplatz,Maillingerstraße,U1,2
+Maillingerstraße,Stiglmaierplatz,U1,1
+Stiglmaierplatz,Hauptbahnhof,U1,2
+Hauptbahnhof,Sendlinger Tor,U1,2
+Sendlinger Tor,Fraunhoferstraße,U1,1
+Fraunhoferstraße,Kolumbusplatz,U1,2
+Kolumbusplatz,Candidplatz,U1,1
+Candidplatz,Wettersteinplatz,U1,2
+Wettersteinplatz,St.-Quirin-Platz,U1,1
+St.-Quirin-Platz,Mangfallplatz,U1,1
+Feldmoching,Hasenbergl,U2,2
+Hasenbergl,Dülferstraße,U2,1
+Dülferstraße,Harthof,U2,1
+Harthof,Am Hart,U2,2
+Am Hart,Frankfurter Ring,U2,1
+Frankfurter Ring,Milbertshofen,U2,2
+Milbertshofen,Scheidplatz,U2,2
+Scheidplatz,Hohenzollernplatz,U2,1
+Hohenzollernplatz,Josephsplatz,U2,2
+Josephsplatz,Theresienstraße,U2,1
+Theresienstraße,Königsplatz,U2,1
+Königsplatz,Hauptbahnhof,U2,2
+Hauptbahnhof,Sendlinger Tor,U2,2
+Sendlinger Tor,Fraunhoferstraße,U2,1
+Fraunhoferstraße,Kolumbusplatz,U2,2
+Kolumbusplatz,Silberhornstraße,U2,1
+Silberhornstraße,Untersbergstraße,U2,1
+Untersbergstraße,Giesing,U2,2
+Giesing,Karl-Preis-Platz,U2,2
+Karl-Preis-Platz,Innsbrucker Ring,U2,1
+Innsbrucker Ring,Josephsburg,U2,2
+Josephsburg,Kreillerstraße,U2,2
+Kreillerstraße,Trudering,U2,2
+Trudering,Moosfeld,U2,1
+Moosfeld,Messestadt West,U2,2
+Messestadt West,Messestadt Ost,U2,1
+Moosach,Moosacher St.-Martins-Platz,U3,1
+Moosacher St.-Martins-Platz,Olympia-Einkaufszentrum,U3,2
+Olympia-Einkaufszentrum,Oberwiesenfeld,U3,2
+Oberwiesenfeld,Olympiazentrum,U3,2
+Olympiazentrum,Petuelring,U3,1
+Petuelring,Scheidplatz,U3,2
+Scheidplatz,Bonner Platz,U3,1
+Bonner Platz,Münchener Freiheit,U3,2
+Münchener Freiheit,Giselastraße,U3,1
+Giselastraße,Universität,U3,2
+Universität,Odeonsplatz,U3,1
+Odeonsplatz,Marienplatz,U3,2
+Marienplatz,Sendlinger Tor,U3,1
+Sendlinger Tor,Goetheplatz,U3,2
+Goetheplatz,Poccistraße,U3,1
+Poccistraße,Implerstraße,U3,2
+Implerstraße,Brudermühlstraße,U3,1
+Brudermühlstraße,Thalkirchen(Tierpark),U3,2
+Thalkirchen(Tierpark),Obersendling,U3,1
+Obersendling,Aidenbachstraße,U3,2
+Aidenbachstraße,Machtlfinger Straße,U3,1
+Machtlfinger Straße,Forstenrieder Allee,U3,2
+Forstenrieder Allee,Basler Straße,U3,1
+Basler Straße,Fürstenried West,U3,1
+Arabellapark,Richard-Strauss-Straße,U4,2
+Richard-Strauss-Straße,Böhmerwaldplatz,U4,1
+Böhmerwaldplatz,Prinzregentenplatz,U4,1
+Prinzregentenplatz,Max-Weber-Platz,U4,2
+Max-Weber-Platz,Lehel,U4,1
+Lehel,Odeonsplatz,U4,2
+Odeonsplatz,Karlsplatz,U4,1
+Karlsplatz,Hauptbahnhof,U4,2
+Hauptbahnhof,Theresienwiese,U4,1
+Theresienwiese,Schwanthalerhöhe,U4,2
+Schwanthalerhöhe,Heimeranplatz,U4,1
+Heimeranplatz,Westendstraße,U4,1
+Laimer Platz,Friedenheimer Straße,U5,1
+Friedenheimer Straße,Westendstraße,U5,2
+Westendstraße,Heimeranplatz,U5,1
+Heimeranplatz,Schwanthalerhöhe,U5,1
+Schwanthalerhöhe,Theresienwiese,U5,2
+Theresienwiese,Hauptbahnhof,U5,1
+Hauptbahnhof,Karlsplatz,U5,1
+Karlsplatz,Odeonsplatz,U5,2
+Odeonsplatz,Lehel,U5,1
+Lehel,Max-Weber-Platz,U5,2
+Max-Weber-Platz,Ostbahnhof,U5,2
+Ostbahnhof,Innsbrucker Ring,U5,2
+Innsbrucker Ring,Michaelibad,U5,2
+Michaelibad,Quiddestraße,U5,2
+Quiddestraße,Neuperlach Zentrum,U5,1
+Neuperlach Zentrum,Therese-Giehse-Allee,U5,2
+Therese-Giehse-Allee,Neuperlach Süd,U5,1
+Garching-Forschungszentrum,Garching,U6,3
+Garching,Garching-Hochbrück,U6,2
+Garching-Hochbrück,Fröttmaning,U6,4
+Fröttmaning,Kieferngarten,U6,2
+Kieferngarten,Freimann,U6,2
+Freimann,Studentenstadt,U6,2
+Studentenstadt,Alte Heide,U6,1
+Alte Heide,Nordfriedhof,U6,1
+Nordfriedhof,Dietlindenstraße,U6,2
+Dietlindenstraße,Münchener Freiheit,U6,1
+Münchener Freiheit,Giselastraße,U6,1
+Giselastraße,Universität,U6,2
+Universität,Odeonsplatz,U6,1
+Odeonsplatz,Marienplatz,U6,2
+Marienplatz,Sendlinger Tor,U6,1
+Sendlinger Tor,Goetheplatz,U6,2
+Goetheplatz,Poccistraße,U6,1
+Poccistraße,Implerstraße,U6,2
+Implerstraße,Harras,U6,1
+Harras,Partnachplatz,U6,2
+Partnachplatz,Westpark,U6,1
+Westpark,Holzapfelkreuth,U6,2
+Holzapfelkreuth,Haderner Stern Station,U6,1
+Haderner Stern Station,Großhadern,U6,2
+Großhadern,Klinikum Großhadern,U6,1
